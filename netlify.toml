@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/:shortlink_id"
+to = "/.netlify/functions/redirect"
+status = 200
